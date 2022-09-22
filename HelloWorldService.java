@@ -8,7 +8,7 @@ public class HelloWorldService {
 	
 @RequestMapping("/hello")
 public String test() {
-	return "Hello World!";
+	return "Hai!";
 }
 	
 }
